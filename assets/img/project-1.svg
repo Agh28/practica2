@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Proyecto 1</title>
+  <desc id="desc">Placeholder visual para proyecto 1</desc>
+  <rect width="1200" height="700" fill="#1c3958"/>
+  <rect x="120" y="120" width="960" height="460" rx="26" fill="#f0f5fa"/>
+  <circle cx="260" cy="250" r="70" fill="#2d7a78"/>
+  <rect x="360" y="195" width="540" height="24" rx="12" fill="#2d7a78"/>
+  <rect x="360" y="245" width="420" height="18" rx="9" fill="#7e97ad"/>
+  <rect x="360" y="285" width="350" height="18" rx="9" fill="#7e97ad"/>
+  <text x="600" y="640" fill="#ffffff" font-size="42" text-anchor="middle" font-family="Arial, sans-serif">PROYECTO DESTACADO</text>
+</svg>

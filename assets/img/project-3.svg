@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Proyecto 3</title>
+  <desc id="desc">Placeholder visual para proyecto 3</desc>
+  <rect width="1200" height="700" fill="#3f2b19"/>
+  <rect x="105" y="115" width="990" height="480" rx="26" fill="#f8efe7"/>
+  <path d="M200 470 C350 260 540 520 700 320 C790 210 910 260 1000 180" stroke="#b2542b" stroke-width="18" fill="none"/>
+  <circle cx="270" cy="420" r="22" fill="#b2542b"/>
+  <circle cx="490" cy="430" r="22" fill="#b2542b"/>
+  <circle cx="700" cy="320" r="22" fill="#b2542b"/>
+  <circle cx="980" cy="195" r="22" fill="#b2542b"/>
+  <text x="600" y="640" fill="#ffffff" font-size="42" text-anchor="middle" font-family="Arial, sans-serif">TRANSFORMACION DIGITAL</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Proyecto 2</title>
+  <desc id="desc">Placeholder visual para proyecto 2</desc>
+  <rect width="1200" height="700" fill="#0d2f2d"/>
+  <rect x="110" y="120" width="980" height="470" rx="26" fill="#eaf7f6"/>
+  <rect x="180" y="190" width="260" height="290" rx="18" fill="#2d7a78"/>
+  <rect x="500" y="210" width="490" height="28" rx="14" fill="#1f5f5d"/>
+  <rect x="500" y="265" width="360" height="20" rx="10" fill="#5d8e8d"/>
+  <rect x="500" y="310" width="420" height="20" rx="10" fill="#5d8e8d"/>
+  <text x="600" y="640" fill="#ffffff" font-size="42" text-anchor="middle" font-family="Arial, sans-serif">DASHBOARD / ANALITICA</text>
+</svg>

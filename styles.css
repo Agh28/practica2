@@ -336,6 +336,17 @@ h1 {
   font-size: 0.85rem;
 }
 
+#credentials .tags {
+  display: grid;
+  gap: 0.6rem;
+}
+
+#credentials .tags li {
+  border-radius: 10px;
+  padding: 0.5rem 0.75rem;
+  line-height: 1.35;
+}
+
 .contact-list {
   margin: 0;
   padding-left: 1rem;
